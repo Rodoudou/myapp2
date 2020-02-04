@@ -1,0 +1,35 @@
+.Aboutme > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-end;
+  align-items: center;
+  width: 300px;
+  height: 346px;
+  background: tomato;
+  margin-top: 150px;
+}
+
+h2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 29px;
+  color: #000000;
+}
+
+.img {
+  width: 255px;
+  height: 179px;
+  background: #c4c4c4;
+}
+
+p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}

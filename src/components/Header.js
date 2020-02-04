@@ -1,14 +1,13 @@
 import React from "react";
+import Nav from "./Nav";
+import Title from "./Title";
 
 const Header = () => {
   return (
     <>
-      <div className="nav">
-        <ul>
-          <a src="https://wwww.yourchef.paris">
-            <li>lien 1</li>
-          </a>
-        </ul>
+      <div>
+        <Title />
+        <Nav />
       </div>
     </>
   );

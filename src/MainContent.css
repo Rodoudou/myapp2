@@ -1,0 +1,18 @@
+.img1 {
+  margin: 20px 0;
+  height: 150px;
+  width: 890px;
+  background-repeat: no-repeat;
+  background-color: tomato;
+}
+
+p {
+  width: 890px;
+  height: 95px;
+}
+
+.para {
+  color: #000000;
+  font-size: 18px;
+  line-height: 21px;
+}
